@@ -1,0 +1,8 @@
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\bin\FliptheCoin.dll
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\bin\FliptheCoin.pdb
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\bin\FliptheCoin.xml
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\obj\Debug\FliptheCoin.Resources.resources
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\obj\Debug\FliptheCoin.vbproj.GenerateResource.Cache
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\obj\Debug\FliptheCoin.dll
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\obj\Debug\FliptheCoin.xml
+c:\users\husna\documents\visual studio 2012\Projects\FliptheCoin\FliptheCoin\obj\Debug\FliptheCoin.pdb
